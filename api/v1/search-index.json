@@ -1,0 +1,11 @@
+{
+  "byId": {
+    "crop-seasons": {
+      "id": "crop-seasons",
+      "name": "Crop Seasons",
+      "status": "scaffold",
+      "source": "Agricultural reference"
+    }
+  },
+  "searchableFields": []
+}
